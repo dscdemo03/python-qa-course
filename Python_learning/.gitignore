@@ -3,5 +3,4 @@ __pycache__/
 .idea/
 venv/
 
-git add .
-git commit -m "Day 1: Added hello world script"
+
